@@ -1,9 +1,18 @@
 <?php
 function test(){
+	$d = 500;
+	$a = 100;
+	$b = 200;
+	$c = $a + $b;
+	echo $c;
+	$f = 300;
+}
+test();
+function test2(){
 	$a = 100;
 	$b = 200;
 	$c = $a + $b;
 	echo $c;
 }
-test();
+
 
