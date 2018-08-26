@@ -1,6 +1,6 @@
 <?php 
 function test1(){
-    test4();
+    test3();
     test2();
 }
 function test2(){
