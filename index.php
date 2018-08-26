@@ -1,4 +1,6 @@
-<?php 
+<?php
+test();
+test2();
 function test1(){
    
 }
