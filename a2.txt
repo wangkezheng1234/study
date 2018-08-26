@@ -2,8 +2,11 @@
 function test(){
 	$a = 100;
 	$b = 200;
+	$f = 50l;
 	$c = $a + $b;
 	echo $c;
+	$d = 500;
+	
 }
 test();
-
+test();
